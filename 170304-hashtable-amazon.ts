@@ -1,4 +1,4 @@
-
+'use strict'
 const findUniqueChars = function(inputString) {
     let outputHashtable = {};
     for(let i=0; i<inputString.length; i++) {
@@ -7,4 +7,4 @@ const findUniqueChars = function(inputString) {
     console.log(Object.keys(outputHashtable).join(''));
 }
 
-findUniqueChars('Zunaira');
+findUniqueChars('Zunaira Sayed Zakir');
