@@ -1,0 +1,506 @@
+workflowManager: {
+    username: 'SMittal@E505A4',
+    password: 'adpadp10',
+    orgoid: 'G3QFAY5E2N6HTAFB',
+    aoid: 'G391DKWXBVP10AER'
+  },
+  personalInfoCompleted: {
+    username: 'OEmployee9@E505A4',
+    password: 'adpadp10',
+    orgoid: 'G3QFAY5E2N6HTAFB',
+    aoid: 'G32HF3J7XN8PW2T3'
+  },
+  stateTaxWithWorkFlow: {
+    username: 'OEmployee9@E505A4',
+    password: 'adpadp10',
+    orgoid: 'G3QFAY5E2N6HTAFB',
+    aoid: 'G32HF3J7XN8PW2T3'
+  },
+  userAlreadyStartedWithin7Days: {
+    username: 'OEmployee1@RedboxFIT1',
+    password: 'adpadp10',
+    orgoid: 'G3DWA5B2203ZKHP7',
+    aoid: 'G3VQHFJ1H79PZGZQ'
+  },
+  noCompanyDocuments: {
+    username: 'OEmployee9@E505A4',
+    password: 'adpadp10',
+    orgoid: 'G3QFAY5E2N6HTAFB',
+    aoid: 'G32HF3J7XN8PW2T3'
+  },
+  aboutYouCompleted: {
+    username: '',
+    password: 'adpadp10',
+    orgoid: '',
+    aoid: ''
+  },
+  checklistAdmin: {
+    username: '',
+    password: 'adpadp10',
+    orgoid: '',
+    aoid: ''
+  },
+  companyBio: {
+    username: '',
+    password: 'adpadp10',
+    orgoid: '',
+    aoid: ''
+  },
+  emergencyContactNotFilled: {
+    username: 'OEmployee1@RedboxFIT1',
+    password: 'adpadp10',
+    orgoid: 'G3DWA5B2203ZKHP7',
+    aoid: 'G3VQHFJ1H79PZGZQ'
+  },
+  manager2: {
+    username: '',
+    password: 'adpadp10',
+    orgoid: '',
+    aoid: ''
+  },
+  managerWithOneTeamMember: {
+    username: 'OManager2@redboxFIT1',
+    password: 'adpadp10',
+    orgoid: 'G3FANZVC12Z9CJM2',
+    aoid: 'G3DWA5B2203ZKHP7'
+  },
+  newHireEmployeeWithNoEmail: {
+    username: '',
+    password: 'adpadp10',
+    orgoid: '',
+    aoid: ''
+  },
+  noCompletedChecklist: {
+    username: '',
+    password: 'adpadp10',
+    orgoid: '',
+    aoid: ''
+  },
+  noWhatWeDo: {
+    username: '',
+    password: 'adpadp10',
+    orgoid: '',
+    aoid: ''
+  },
+  payOnlyUser: {
+    username: '',
+    password: 'adpadp10',
+    orgoid: '',
+    aoid: ''
+  },
+  startedOnboarding: {
+    username: '',
+    password: 'adpadp10',
+    orgoid: '',
+    aoid: ''
+  },
+  stateTaxWithoutWorkFlow: {
+    username: 'OEmployee7@E505A4',
+    password: 'adpadp10',
+    orgoid: 'G3QFAY5E2N6HTAFB',
+    aoid: 'G3W43CVM54BQ97RW'
+  },
+  userStartDateInEndOfNextYear: {
+    username: '',
+    password: 'adpadp10',
+    orgoid: '',
+    aoid: ''
+  },
+  managerWithSixAndMoreTeamMember: {
+    username: 'OManager1@RedboxFIT1',
+    password: 'adpadp10',
+    orgoid: 'G3DWA5B2203ZKHP7',
+    aoid: 'G3VMCSD38B72G23V'
+  },
+  userWithSixAndMoreWorker: {
+    username: '',
+    password: 'adpadp10',
+    orgoid: '',
+    aoid: ''
+  },
+  userWithWelcomeMessage: {
+    username: 'OEmployee1@RedboxFIT1',
+    password: 'adpadp10',
+    orgoid: 'G3DWA5B2203ZKHP7',
+    aoid: 'G3VQHFJ1H79PZGZQ'
+  },
+  userWithWorkFlowDisabled: {
+    username: '',
+    password: 'adpadp10',
+    orgoid: '',
+    aoid: ''
+  },
+  usersWithMoreThenOneTeamMember: {
+    username: 'OEmployee1@RedboxFIT1',
+    password: 'adpadp10',
+    orgoid: 'G3DWA5B2203ZKHP7',
+    aoid: 'G3VQHFJ1H79PZGZQ'
+  },
+  usersWithOneTeamMember: {
+    username: 'OAutoAssign1@RedboxFIT1',
+    password: 'adpadp10',
+    orgoid: 'G3DWA5B2203ZKHP7',
+    aoid: 'G3X8XEHQRF8V9ARY'
+  },
+  managerWithNOOnboardingFeature: {
+    username: 'D2080@RedboxFIT1',
+    password: 'adpadp10',
+    orgoid: 'G3DWA5B2203ZKHP7',
+    aoid: 'G3YHEGPR8E191TJT'
+  },
+  nonExemptEmployee: {
+    username: 'NUser@REDBOXF1SU',
+    password: 'adpadp10',
+    orgoid: 'G3K0AG6ZAZYWB342',
+    aoid: 'G3MJR611WFMYRZNG'
+  },
+  taxWithWorkFlow: {
+    username: 'OEmployee9@E505A4',
+    password: 'adpadp10',
+    orgoid: 'G3QFAY5E2N6HTAFB',
+    aoid: 'G32HF3J7XN8PW2T3'
+  },
+  workFlowNotApproved: {
+    username: 'OEmployee1@RedboxFIT1',
+    password: 'adpadp10',
+    orgoid: 'G3DWA5B2203ZKHP7',
+    aoid: 'G3VQHFJ1H79PZGZQ'
+  },
+  completedTax: {
+    username: 'OEmployee2@RedboxFIT1',
+    password: 'adpadp10',
+    orgoid: 'G3DWA5B2203ZKHP7',
+    aoid: 'G3VQHFJ1H79PNR5K'
+  },
+  fillTax: {
+    username: 'OEmployee7@E505A4',
+    password: 'adpadp10',
+    orgoid: 'G3QFAY5E2N6HTAFB',
+    aoid: 'G3W43CVM54BQ97RW'
+  },
+  adminWithLimitedFeatures: {
+    username: 'ERedbox2@E505A5',
+    password: 'adpadp02',
+    orgoid: 'G3BP0DXP4PQFXWBR',
+    aoid: 'G3W8YSJRT1G6R2W2'
+  },
+  completeEmergencyContact: {
+    username: 'OEmployee3@RedboxFIT1',
+    password: 'adpadp10',
+    orgoid: 'G3DWA5B2203ZKHP7',
+    aoid: 'G3VQHFJ1H79P72G0'
+  },
+  completeDirectDeposit: {
+    username: 'EWatson@RedboxFIT1',
+    password: 'adpadp10',
+    orgoid: 'G3DWA5B2203ZKHP7',
+    aoid: 'G3WNF3QME85FGV1D'
+  },
+  noOnboardingAccess: {
+    username: 'tredbox1@REDBOX1FIT',
+    password: 'adpadp12',
+    orgoid: 'G3DWA5B2203ZKHP7',
+    aoid: 'G31H0MB6AWTR3R1X'
+  },
+  rehireStartingInPast: {
+    username: 'OPastDate@RedboxFIT1',
+    password: 'adpadp10',
+    orgoid: 'G3DWA5B2203ZKHP7',
+    aoid: 'G30M8NFCGVHNNMG6'
+  },
+  rehireStartingInFuture: {
+    username: 'ORehire@RedboxFIT1',
+    password: 'adpadp10',
+    orgoid: 'G3DWA5B2203ZKHP7',
+    aoid: 'G3TJTCSZ4HH820EJ'
+  },
+  rehireWithI9Completed: {
+    username: 'OFutureRehire@RedboxFIT1',
+    password: 'adpadp10',
+    orgoid: 'G3DWA5B2203ZKHP7',
+    aoid: 'G30M8NFCGVHNJSQ3'
+  },
+  rehireWithI9Incomplete: {
+    username: 'OPastDate@RedboxFIT1',
+    password: 'adpadp10',
+    orgoid: 'G3DWA5B2203ZKHP7',
+    aoid: 'G30M8NFCGVHNNMG6'
+  },
+  adminWithCompanyNews: {
+    username: 'OAdmin1@RedboxFIT1',
+    password: 'adpadp10',
+    orgoid: 'G3DWA5B2203ZKHP7',
+    aoid: 'G3VQHFJ1H79PG279'
+  },
+  newhireWithCompanyNews: {
+    username: 'OEmployee1@RedboxFIT1',
+    password: 'adpadp10',
+    orgoid: 'G3DWA5B2203ZKHP7',
+    aoid: 'G3VQHFJ1H79PZGZQ'
+  },
+  checklistManager: {
+    username: 'OManager1@RedboxFIT1',
+    password: 'adpadp10',
+    orgoid: 'G3DWA5B2203ZKHP7',
+    aoid: 'G3VMCSD38B72G23V'
+  },
+  defaultUser: {
+    username: 'EWatson@RedboxFIT1',
+    password: 'adpadp10',
+    orgoid: 'G3DWA5B2203ZKHP7',
+    aoid: 'G3WNF3QME85FGV1D'
+  },
+  usrStartedPaperworkProcess: {
+    username: 'OEmployee1@RedboxFIT1',
+    password: 'adpadp10',
+    orgoid: 'G3DWA5B2203ZKHP7',
+    aoid: 'G3VQHFJ1H79PZGZQ'
+  },
+  practitioner: {
+    username: 'OAdmin1@RedboxFIT1',
+    password: 'adpadp10',
+    orgoid: 'G3DWA5B2203ZKHP7',
+    aoid: 'G3VQHFJ1H79PG279'
+  },
+  profileSettngDisabled: {
+    username: '',
+    password: 'adpadp10',
+    orgoid: '',
+    aoid: ''
+  },
+  practitionerChecklist: {
+    username: 'OAdmin1@RedboxFIT1',
+    password: 'adpadp10',
+    orgoid: 'G3DWA5B2203ZKHP7',
+    aoid: 'G3VQHFJ1H79PG279'
+  },
+  managerWithMultipleEmployees: {
+    username: 'OManager1@RedboxFIT1',
+    password: 'adpadp10',
+    orgoid: 'G3DWA5B2203ZKHP7',
+    aoid: 'G3VMCSD38B72G23V'
+  },
+  userStartedOnboardingProcess: {
+    username: 'OEmployee1@RedboxFIT1',
+    password: 'adpadp10',
+    orgoid: 'G3DWA5B2203ZKHP7',
+    aoid: 'G3VQHFJ1H79PZGZQ'
+  },
+  managerToApprovedDD: {
+    username: 'OManager1@RedboxFIT1',
+    password: 'adpadp10',
+    orgoid: 'G3DWA5B2203ZKHP7',
+    aoid: 'G3VMCSD38B72G23V'
+  },
+  userNotYetStartedOnboardingProcess: {
+    username: 'OEmployee1@RedboxFIT1',
+    password: 'adpadp10',
+    orgoid: 'G3DWA5B2203ZKHP7',
+    aoid: 'G3VQHFJ1H79PZGZQ'
+  },
+  manager: {
+    username: 'OManager1@RedboxFIT1',
+    password: 'adpadp10',
+    orgoid: 'G3DWA5B2203ZKHP7',
+    aoid: 'G3VQHFJ1H79PCS5B'
+  },
+  managerWithNoNewHire: {
+    username: '',
+    password: 'adpadp10',
+    orgoid: '',
+    aoid: ''
+  },
+  incompletePaperwork: {
+    username: 'EWatson@RedboxFIT1',
+    password: 'adpadp10',
+    orgoid: 'G3DWA5B2203ZKHP7',
+    aoid: 'G3WNF3QME85FGV1D'
+  },
+  newHireEmployee: {
+    username: 'OEmployee1@RedboxFIT1',
+    password: 'adpadp10',
+    orgoid: 'G3DWA5B2203ZKHP7',
+    aoid: 'G3VQHFJ1H79PZGZQ'
+  },
+  userWithNoManager: {
+    username: 'fmanager@RedboxFIT1',
+    password: 'adpadp10',
+    orgoid: 'G3DWA5B2203ZKHP7',
+    aoid: 'G3FANZVC12Z94Y4R'
+  },
+  userDoesNotHavi9AsProduct: {
+    username: 'ERedbox2@E505A5',
+    password: 'adpadp02',
+    orgoid: 'G3BP0DXP4PQFXWBR',
+    aoid: 'G3W8YSJRT1G6R2W2'
+  },
+  userAlreadyStarted: {
+    username: 'OEmployee4@RedboxFIT1',
+    password: 'adpadp10',
+    orgoid: 'G3DWA5B2203ZKHP7',
+    aoid: 'G3VQHFJ1H79PM39H'
+  },
+  userWithOneDirectDepositAcct: {
+    username: 'EWatson@RedboxFIT1',
+    password: 'adpadp10',
+    orgoid: 'G3DWA5B2203ZKHP7',
+    aoid: 'G3WNF3QME85FGV1D'
+  },
+  userWithNoDirectDepositAcct: {
+    username: 'OEmployee9@E505A4',
+    password: 'adpadp10',
+    orgoid: 'G3QFAY5E2N6HTAFB',
+    aoid: 'G32HF3J7XN8PW2T3'
+  },
+  userWithNoCompanyPolicy: {
+    username: 'DSavoy@RedboxFIT1',
+    password: 'adpadp10',
+    orgoid: 'G3DWA5B2203ZKHP7',
+    aoid: 'G3X6RS25JAACAACS'
+  },
+  userAcknowledgedpolicy: {
+    username: 'OEmployee2@RedboxFIT1',
+    password: 'adpadp10',
+    orgoid: 'G3DWA5B2203ZKHP7',
+    aoid: 'G3VQHFJ1H79PNR5K'
+  },
+  userAlreadyFilledoutTW: {
+    username: 'OEmployee2@RedboxFIT1',
+    password: 'adpadp10',
+    orgoid: 'G3DWA5B2203ZKHP7',
+    aoid: 'G3VQHFJ1H79PNR5K'
+  },
+  userDidNotFilledoutTW: {
+    username: 'OEmployee7@E505A4',
+    password: 'adpadp10',
+    orgoid: 'G3QFAY5E2N6HTAFB',
+    aoid: 'G3W43CVM54BQ97RW'
+  },
+  optionToEditTaxWithholdings: {
+    username: 'OEmployee2@RedboxFIT1',
+    password: 'adpadp10',
+    orgoid: 'G3DWA5B2203ZKHP7',
+    aoid: 'G3VQHFJ1H79PNR5K'
+  },
+  userWithWorkFlowEnabled: {
+    username: 'OEmployee1@RedboxFIT1',
+    password: 'adpadp10',
+    orgoid: 'G3DWA5B2203ZKHP7',
+    aoid: 'G3VQHFJ1H79PZGZQ'
+  },
+  taxWithoutWorkFlow: {
+    username: 'OEmployee3@RedboxFIT1',
+    password: 'adpadp10',
+    orgoid: 'G3DWA5B2203ZKHP7',
+    aoid: 'G3VQHFJ1H79P72G0'
+  },
+  userWhoHasNotCompleatedi9: {
+    username: 'OEmployee3@RedboxFIT1',
+    password: 'adpadp10',
+    orgoid: 'G3DWA5B2203ZKHP7',
+    aoid: 'G3VQHFJ1H79P72G0'
+  },
+  userWhoHasCompleatedi9: {
+    username: 'OEmployee2@RedboxFIT1',
+    password: 'adpadp10',
+    orgoid: 'G3DWA5B2203ZKHP7',
+    aoid: 'G3VQHFJ1H79PNR5K'
+  },
+  completePaperwork: {
+    username: 'OEmployee2@RedboxFIT1',
+    password: 'adpadp10',
+    orgoid: 'G3DWA5B2203ZKHP7',
+    aoid: 'G3VQHFJ1H79PNR5K'
+  },
+  i9PrePopulation: {
+    username: 'OEmployee7@E505A4',
+    password: 'adpadp10',
+    orgoid: 'G3QFAY5E2N6HTAFB',
+    aoid: 'G3W43CVM54BQ97RW'
+  },
+  i9UserQA: {
+    username: 'INutbrown@RDBXSTARSU',
+    password: 'adpadp10',
+    orgoid: 'G3VC9S2XGYZKYW3N',
+    aoid: 'G31BR7NHJ72FZ2FJ'
+  },
+  i9UserPin: {
+    username: '',
+    password: 'adpadp10',
+    orgoid: '',
+    aoid: ''
+  },
+  prePopulationOff: {
+    username: 'SMittal@E505A4',
+    password: 'adpadp10',
+    orgoid: 'G3QFAY5E2N6HTAFB',
+    aoid: 'G391DKWXBVP10AER'
+  },
+  i9EverifyOn: {
+    username: '',
+    password: '',
+    orgoid: '',
+    aoid: '',
+    ssn: ''
+  },
+  i9User: {
+    username: 'OEmployee3@RedboxFIT1',
+    password: 'adpadp10',
+    orgoid: 'G3DWA5B2203ZKHP7',
+    aoid: 'G3VQHFJ1H79P72G0',
+    ssn: '111-22-5569'
+  },
+  I9SecondQuestionOff: {
+    username: 'SGayle@e542arb1su',
+    password: 'adpadp11',
+    orgoid: 'G371DR1G38R64ZAA',
+    aoid: 'G3G8NX7F3J813HTE'
+  },
+  i9thirdQuestionOff: {
+    username: 'AHeitner@RDBXSTARSU',
+    password: 'adpadp12',
+    orgoid: 'G3VC9S2XGYZKYW3N',
+    aoid: 'G31BR7NHJ72FRAPD'
+  },
+  i9BothQuestionsOff: {
+    username: 'GSeeds@RDBXNSTAR',
+    password: 'adpadp13',
+    orgoid: 'G3CCCSG8PJH2YBNF',
+    aoid: 'G3GNAYNFVVHAX37C'
+  },
+  usersWithNoDDWorkflow: {
+    username: 'OEmployee7@E505A4',
+    password: 'adpadp10',
+    orgoid: 'G3QFAY5E2N6HTAFB',
+    aoid: 'G3W43CVM54BQ97RW'
+  },
+  usrStartedOnboardingProcess: {
+    username: 'EWatson@RedboxFIT1',
+    password: 'adpadp10',
+    orgoid: 'G3DWA5B2203ZKHP7',
+    aoid: 'G3WNF3QME85FGV1D'
+  },
+  completedAllSteps: {
+    username: 'OEmployee2@RedboxFIT1',
+    password: 'adpadp10',
+    orgoid: 'G3DWA5B2203ZKHP7',
+    aoid: 'G3VQHFJ1H79PNR5K'
+  },
+  freeBoarder: {
+    username: 'Buser@redboxfit1',
+    password: 'adpadp10',
+    orgoid: 'G3DWA5B2203ZKHP7',
+    aoid: 'G3JGBJM2QPHNK6SB'
+  },
+  freeBoarderAdmin: {
+    username: 'VJohnson@RedboxFIT1',
+    password: 'adpadp10',
+    orgoid: 'G3DWA5B2203ZKHP7',
+    aoid: 'G3JGBJM2QPHNQEN9'
+  },
+  freeBoardingManager: {
+    username: 'fmanager@RedboxFIT1',
+    password: 'adpadp10',
+    orgoid: 'G3DWA5B2203ZKHP7',
+    aoid: 'G3FANZVC12Z94Y4R'
+  }
