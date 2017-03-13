@@ -1,0 +1,467 @@
+./animation.feature:    Given I login with a user that has not yet started onboarding process
+./animation.feature:    Given I login with a user that has not yet started onboarding process
+./animation.feature:    Given I login with a user that has not yet started onboarding process
+./animation.feature:    Given I login with a user that has not yet started onboarding process
+./api_down.feature:    Given I login as a user that has started onboarding
+./api_down.feature:    Given I login with a default user
+./api_down.feature:    Given I login as onboarding practitioner user
+./api_down.feature:    Given I login as a user that has started onboarding
+./api_down.feature:    Given I login as onboarding user who is "practitioner"
+./api_down.feature:    Given I login as onboarding user who is "practitioner"
+./benefit.feature:    Given I login as a user who's start date is in the future
+./benefit.feature:    Given I login as a user who's start date is in the future
+./checklist/admin_view/completed_checklist.feature:    Given I login as a onboarding checklist practitioner
+./checklist/admin_view/completed_checklist.feature:    Given I login as a onboarding checklist practitioner
+./checklist/admin_view/completed_checklist.feature:    Given I login as a onboarding checklist practitioner
+./checklist/admin_view/inprogress_checklist.feature:    Given I login as a onboarding checklist practitioner
+./checklist/admin_view/inprogress_checklist.feature:    Given I login as a onboarding checklist practitioner
+./checklist/admin_view/inprogress_checklist.feature:    Given I login as a onboarding checklist practitioner
+./checklist/admin_view/inprogress_checklist.feature:    Given I login as a onboarding checklist practitioner
+./checklist/admin_view/inprogress_checklist.feature:    Given I login as a onboarding checklist practitioner
+./checklist/admin_view/inprogress_checklist.feature:    Given I login as a onboarding checklist practitioner
+./checklist/checklist_template.feature:    Given I login as onboarding practitioner user
+./checklist/checklist_template.feature:    Given I login as onboarding practitioner user
+./checklist/checklist_template.feature:    Given I login as onboarding practitioner user
+./checklist/checklist_template.feature:    Given I login as onboarding practitioner user
+./checklist/checklist_template.feature:    Given I login as onboarding practitioner user
+./checklist/checklist_template.feature:    Given I login with a user that has not yet started onboarding process
+./checklist/checklist_template.feature:    Given I login as onboarding practitioner user
+./checklist/checklist_template.feature:    Given I login as onboarding practitioner user
+./checklist/checklist_template.feature:    Given I login as onboarding practitioner user
+./checklist/checklist_template.feature:    Given I login as onboarding practitioner user
+./checklist/copy_pasta.feature:    Given I login as onboarding practitioner user
+./checklist/copy_pasta.feature:    Given I login as onboarding practitioner user
+./checklist/create_checklist.feature:    Given I login as a onboarding manager
+./checklist/create_checklist.feature:    Given I login as a onboarding manager
+./checklist/create_checklist.feature:    Given I login as onboarding practitioner user
+./checklist/create_checklist.feature:    Given I login as a onboarding manager
+./checklist/manager_dashboard_view.feature:    Given I login as a onboarding manager
+./checklist/manager_dashboard_view.feature:    Given I login as a onboarding manager
+./checklist/manager_dashboard_view.feature:    Given I login as a onboarding manager
+./checklist/manager_dashboard_view.feature:    Given I login as a onboarding manager with employees
+./checklist/manager_view/manager_newhire_checklist_view.feature:    Given I login as a onboarding manager
+./checklist/manager_view/manager_newhire_checklist_view.feature:    Given I login as a onboarding manager
+./checklist/manager_view/manager_newhire_checklist_view.feature:    Given I login as a onboarding manager
+./checklist/manager_view/manager_newhire_checklist_view.feature:    Given I login as a onboarding manager
+./checklist/manager_view/manager_newhire_checklist_view.feature:    Given I login as a onboarding manager
+./checklist/manager_view/manager_newhire_checklist_view.feature:    Given I login as a onboarding manager
+./checklist/manager_view/manager_newhire_checklist_view.feature:    Given I login as a onboarding manager
+./checklist/manager_view/manager_newhire_checklist_view.feature:    Given I login as a onboarding manager
+./checklist/onboarding_checklist.feature:    Given I login as a onboarding checklist practitioner
+./checklist/onboarding_checklist.feature:    Given I login as a onboarding checklist practitioner
+./checklist/onboarding_checklist.feature:    Given I login as a onboarding checklist practitioner
+./checklist/onboarding_checklist.feature:    Given I login as a onboarding manager
+./checklist/onboarding_checklist.feature:    Given I login as a onboarding manager
+./checklist/onboarding_checklist.feature:    Given I login as a onboarding checklist practitioner
+./checklist/onboarding_checklist.feature:    Given I login as a onboarding checklist practitioner
+./checklist/onboarding_checklist.feature:    Given I login as a onboarding checklist practitioner
+./checklist/onboarding_checklist.feature:    Given I login as a onboarding checklist practitioner
+./checklist/onboarding_checklist.feature:    Given I login as a onboarding checklist practitioner
+./checklist/onboarding_checklist.feature:    Given I login as a onboarding checklist practitioner
+./checklist/onboarding_checklist.feature:    Given I login as a onboarding manager
+./checklist/onboarding_checklist.feature:    Given I login as a onboarding manager
+./checklist/onboarding_checklist.feature:    Given I login as a onboarding manager
+./checklist/onboarding_checklist.feature:    Given I login as a onboarding manager
+./checklist/onboarding_checklist.feature:    Given I login as a onboarding manager
+./checklist/onboarding_checklist.feature:    Given I login as a onboarding manager
+./checklist/onboarding_checklist.feature:    Given I login as a onboarding manager
+./checklist/onboarding_checklist.feature:    Given I login as a onboarding manager
+./checklist/onboarding_checklist.feature:    Given  I login as a new hire employee who has six or more team member
+./checklist/onboarding_checklist.feature:    Given  I login as a new hire employee who has six or more team member
+./checklist/onboarding_checklist.feature:    Given I login as a new hire employee who has six or more team member
+./checklist/onboarding_checklist.feature:    Given I login as a onboarding checklist practitioner
+./checklist/onboarding_checklist.feature:    Given I login as a onboarding checklist practitioner
+./company/save_state_company.feature:    Given I login as onboarding user who has "completedAllSteps"
+./company/save_state_company.feature:    Given I login as onboarding user who has "completedAllSteps"
+./company/save_state_company.feature:    Given I login as onboarding user who has "completedAllSteps"
+./company/save_state_company.feature:    Given I login as onboarding user who has "completedAllSteps"
+./company/save_state_company.feature:    And I login as onboarding user who has "completedAllSteps"
+./company/step_company.feature:    Given I login as onboarding user who is "newhireWithCompanyNews"
+./company/step_company.feature:    Given I login as onboarding user who is "newhireWithCompanyNews"
+./company/step_company.feature:    Given I login as onboarding user who is "newhireWithCompanyNews"
+./company/step_company.feature:    Given I login as onboarding user who has "adminWithCompanyNews"
+./company/step_company.feature:    When I login as onboarding user who is "newhireWithCompanyNews"
+./company/step_company.feature:    Given I login as onboarding user who has "adminWithCompanyNews"
+./company/step_company.feature:    When I login as onboarding user who is "newhireWithCompanyNews"
+./company/step_company.feature:    Given I login as onboarding user who has "adminWithCompanyNews"
+./company/step_company.feature:    When I login as onboarding user who is "newhireWithCompanyNews"
+./company/step_company.feature:    Given I login as onboarding user who has "adminWithCompanyNews"
+./company/step_company.feature:    When I login as onboarding user who is "newhireWithCompanyNews"
+./company/step_company.feature:    Given I login as onboarding user who has "adminWithCompanyNews"
+./ei9/alien_flow/alien_long_path.feature:    Given I login as a i9 user
+./ei9/alien_flow/alien_long_path.feature:    Given I login as a i9 user
+./ei9/alien_flow/alien_long_path.feature:    Given I login as a i9 user
+./ei9/alien_flow/alien_long_path.feature:    Given I login as a i9 user
+./ei9/alien_flow/alien_long_path.feature:    Given I login as a i9 user
+./ei9/alien_flow/alien_short_path.feature:    Given I login as a i9 user
+./ei9/alien_flow/alien_validation.feature:    Given I login as a i9 user
+./ei9/alien_flow/alien_validation.feature:    Given I login as a i9 user
+./ei9/alien_flow/alien_validation.feature:    Given I login as a i9 user
+./ei9/alien_flow/alien_validation.feature:    Given I login as a i9 user
+./ei9/alien_flow/alien_validation.feature:    Given I login as a i9 user
+./ei9/alien_flow/alien_validation.feature:    Given I login as a i9 user
+./ei9/e_verify/e_verify_long_path.feature:    Given I login as a i9 user with everify on
+./ei9/e_verify/e_verify_short_path.feature:    Given I login as a i9 user with everify on
+./ei9/e_verify/e_verify_short_path.feature:    Given I login as a i9 user with everify on
+./ei9/e_verify/e_verify_short_path.feature:    Given I login as a i9 user with everify on
+./ei9/e_verify/e_verify_short_path.feature:    Given I login as a i9 user with everify on
+./ei9/i9_enabled_previous.feature:    Given I login as a i9 user
+./ei9/i9_enabled_previous.feature:    Given I login as a i9 user
+./ei9/i9_enabled_previous.feature:    Given I login as a i9 user
+./ei9/i9_enabled_previous.feature:    Given I login as a i9 user
+./ei9/i9_enabled_previous.feature:    Given I login as a i9 user
+./ei9/i9_enabled_previous.feature:    Given I login as a i9 user
+./ei9/i9_enabled_previous.feature:    Given I login as a i9 user
+./ei9/i9_enabled_previous.feature:    Given I login as a i9 user
+./ei9/i9_enabled_previous.feature:    Given I login as a i9 user
+./ei9/i9_enabled_previous.feature:    Given I login as a i9 user
+./ei9/i9_enabled_previous.feature:    Given I login as a i9 user
+./ei9/i9_enabled_previous.feature:    Given I login as a i9 user
+./ei9/i9_enabled_previous.feature:    Given I login as a i9 user
+./ei9/i9_long_path.feature:    Given I login as a i9 user
+./ei9/i9_long_path.feature:    Given I login as a i9 user
+./ei9/i9_long_path.feature:    Given I login as a i9 user
+./ei9/i9_long_path.feature:    Given I login as a i9 user
+./ei9/i9_long_path.feature:    Given I login as a i9 user
+./ei9/i9_long_path.feature:    Given I login as a i9 user
+./ei9/i9_long_path.feature:    Given I login as a i9 user
+./ei9/i9_long_path.feature:    Given I login as a i9 user
+./ei9/i9_long_path.feature:    Given I login as a i9 user
+./ei9/i9_long_path.feature:    Given I login as a i9 user
+./ei9/i9_prepopulate.feature:    Given I login as a i9 user
+./ei9/i9_prepopulate.feature:    Given I login as a i9 user
+./ei9/i9_prepopulate.feature:    Given I login as a i9 user with pre population on
+./ei9/i9_rehire.feature:    Given I login as onboarding user who is "rehireWithI9Incomplete"
+./ei9/i9_rehire.feature:    Given I login as onboarding user who is "rehireWithI9Completed"
+./ei9/i9_short_path.feature:    Given I login as a i9 user
+./ei9/i9_short_path.feature:    Given I login as a i9 user
+./ei9/i9_short_path.feature:    Given I login as a i9 user
+./ei9/i9_short_path.feature:    Given I login as a i9 user
+./ei9/i9_short_path.feature:    Given I login as a i9 user
+./ei9/i9_short_path.feature:    Given I login as a i9 user with esign by Q/A
+./ei9/i9_short_path.feature:    Given I login as a i9 user
+./ei9/i9_short_path.feature:    Given I login as a i9 user
+./ei9/i9_ssn_questions_options.feature:    Given I login as a i9 user who has SSN question, I do not have an SSN turned off
+./ei9/i9_ssn_questions_options.feature:    Given I login as a i9 user who has SSN question, I have a ssn and don't want to enter here turned off
+./ei9/i9_ssn_questions_options.feature:    Given I login as a i9 user who has both i9 questions turned off
+./ei9/i9_user_permission.feature:    Given I login with a user that has not yet started onboarding process
+./ei9/i9_user_permission.feature:    Given I login with a user that does not have i9 as a product
+./ei9/i9_validations.feature:    Given I login as a i9 user
+./ei9/i9_validations.feature:    Given I login as a i9 user
+./ei9/i9_validations.feature:    Given I login as a i9 user
+./ei9/i9_validations.feature:    Given I login as a i9 user
+./ei9/i9_validations.feature:    Given I login as a i9 user
+./ei9/i9_validations.feature:    Given I login as a i9 user
+./ei9/i9_validations.feature:    Given I login as a i9 user
+./ei9/i9_validations.feature:    Given I login as a i9 user
+./ei9/i9_validations.feature:    Given I login as a i9 user
+./ei9/i9_validations.feature:    Given I login as a i9 user
+./ei9/i9_validations.feature:    Given I login as a i9 user
+./ei9/i9_validations.feature:    Given I login as a i9 user
+./ei9/i9_validations.feature:    Given I login as a i9 user
+./ei9/i9_validations.feature:    Given I login as a i9 user
+./ei9/i9_validations.feature:    Given I login as a i9 user
+./ei9/i9_validations.feature:    Given I login as a i9 user
+./ei9/i9_validations.feature:    Given I login as a i9 user
+./ei9/i9_validations.feature:    Given I login as a i9 user with esign by Q/A
+./ei9/i9_validations.feature:    Given I login as a i9 user
+./ei9/i9_validations.feature:    Given I login as a i9 user with esign by pin
+./ei9/i9_validations.feature:    Given I login as a i9 user
+./ei9/i9_validations.feature:    Given I login as a i9 user
+./ei9/i9_validations.feature:    Given I login as a i9 user
+./ei9/i9_validations.feature:    Given I login as a i9 user
+./ei9/no_first_name.feature:    Given I login as a i9 user
+./ei9/no_first_name.feature:    Given I login as a i9 user
+./ei9/no_first_name.feature:    Given I login as a i9 user
+./ei9/ssn_formatter_unit.feature:    Given I login as a i9 user with pre population on
+./ei9/tile_i9.feature:    Given I login as a i9 user
+./freeboarding.feature:    Given I login as a user who does not have premium onboarding enabled
+./freeboarding.feature:    Given I login as a non premium onboarding practitioner user
+./freeboarding.feature:    Given I login as a non premium onboarding manager
+./freeboarding.feature:    Given I login as a user who does not have premium onboarding enabled
+./freeboarding.feature:    Given I login as a user who does not have premium onboarding enabled
+./linkedin_picutre.feature:    Given I login with a user that has not yet started onboarding process
+./linkedin_picutre.feature:    Given I login with a user that has not yet started onboarding process
+./linkedin_picutre.feature:    Given I login with a user that has not yet started onboarding process
+./mobile_browsers/admin_tool.feature:    Given I login as onboarding practitioner user
+./mobile_browsers/admin_tool.feature:    Given I login as onboarding practitioner user
+./mobile_browsers/navigation.feature:    Given I login with a user that started PAPERWORK
+./mobile_browsers/navigation.feature:    Given I login with a user that started PAPERWORK
+./mobile_browsers/navigation.feature:    Given I login with a user that started PAPERWORK
+./navigations/mini_me.feature:    Given I login with a user that has already started to work
+./navigations/mini_me.feature:    Given I login with a user that has not yet started onboarding process
+./navigations/mini_me.feature:    Given I login with a user that has not yet started onboarding process
+./navigations/mini_me.feature:    Given I login with a user that has not yet started onboarding process
+./navigations/mini_me.feature:    Given I login as a user after my start date
+./navigations/mini_me.feature:    Given I login as a user after my start date
+./navigations/mini_me.feature:    Given I login with a user that has not yet started onboarding process
+./navigations/mini_me.feature:    Given I login as a user after my start date
+./navigations/onboarding_navigation.feature:    Given I login as a user that has started onboarding
+./navigations/onboarding_navigation.feature:    Given I login as a user that has started onboarding
+./navigations/onboarding_navigation.feature:    Given I login as a user that has started onboarding
+./navigations/onboarding_navigation.feature:    Given I login as a user that has started onboarding
+./navigations/onboarding_navigation.feature:    Given I login as a user that has started onboarding
+./navigations/onboarding_navigation.feature:    Given I login as a user that has started onboarding
+./navigations/onboarding_navigation.feature:    Given I login with a user that has not yet started onboarding process
+./navigations/onboarding_navigation.feature:    Given I login with a user that has not yet started onboarding process
+./navigations/onboarding_navigation.feature:    Given I login with a user that started PAPERWORK
+./navigations/onboarding_navigation.feature:    Given I login with a user that started PAPERWORK
+./new_admin/admin_customize_onboarding.feature:    Given I login as onboarding practitioner user
+./new_admin/admin_customize_onboarding.feature:    Given I login as onboarding practitioner user
+./new_admin/admin_customize_onboarding.feature:    Given I login as onboarding practitioner user
+./new_admin/admin_customize_onboarding.feature:    Given I login as onboarding practitioner user
+./new_admin/company_preview.feature:    Given I login as onboarding practitioner user
+./new_admin/company_preview.feature:    Given I login as onboarding practitioner user
+./new_admin/company_preview.feature:    Given I login as onboarding practitioner user
+./new_admin/company_preview.feature:    Given I login as onboarding practitioner user
+./new_admin/neighborhood_preview.feature:    Given I login as onboarding practitioner user
+./new_admin/neighborhood_preview.feature:    Given I login as onboarding practitioner user
+./new_admin/neighborhood_preview.feature:    Given I login as onboarding practitioner user
+./new_admin/neighborhood_preview.feature:    Given I login as onboarding practitioner user
+./new_admin/neighborhood_preview.feature:    Given I login with a user that has not yet started onboarding process
+./new_admin/neighborhood_preview.feature:    Given I login as onboarding practitioner user
+./new_admin/paperwork_preview.feature:    Given I login as onboarding practitioner user
+./new_admin/paperwork_preview.feature:    Given I login as onboarding practitioner user
+./new_admin/paperwork_preview.feature:    Given I login as onboarding practitioner user who has ei9, direct deposit or tax withholding disabled
+./new_admin/profile_preview.feature:    Given I login as onboarding practitioner user
+./new_admin/profile_preview.feature:    Given I login as onboarding practitioner user
+./new_admin/profile_preview.feature:    Given I login as onboarding practitioner user who has one or more profile setting disabled
+./new_admin/profile_preview.feature:    Given I login as onboarding practitioner user
+./new_admin/profile_preview.feature:    Given I login as onboarding practitioner user
+./new_admin/profile_preview.feature:    Given I login as onboarding practitioner user
+./new_admin/reorder_onboarding_steps.feature:    Given I login as onboarding practitioner user
+./new_admin/reorder_onboarding_steps.feature:    Given I login as onboarding practitioner user
+./new_admin/reorder_onboarding_steps.feature:    Given I login as onboarding practitioner user
+./new_admin/reorder_onboarding_steps.feature:    Given I login as onboarding practitioner user
+./new_admin/reorder_onboarding_steps.feature:    Given I login as onboarding practitioner user
+./new_admin/reorder_onboarding_steps.feature:    Given I login as onboarding practitioner user
+./new_admin/reorder_onboarding_steps.feature:    Given I login with a user that has not yet started onboarding process
+./new_admin/reorder_onboarding_steps.feature:    Given I login as onboarding practitioner user
+./new_admin/team_preview.feature:    Given I login as onboarding user who has "practitioner"
+./new_admin/team_preview.feature:    Given I login as onboarding user who is "practitioner"
+./new_admin/team_preview.feature:    Given I login as onboarding user who is "practitioner"
+./new_admin/team_preview.feature:    Given I login as onboarding user who is "practitioner"
+./new_admin/team_preview.feature:    And I login as onboarding user who is "practitioner"
+./new_admin/team_preview.feature:    Given I login as onboarding user who is "practitioner"
+./new_admin/team_preview.feature:    Given I login as onboarding user who is "practitioner"
+./new_admin/team_preview.feature:    Given I login as onboarding user who is "practitioner"
+./new_admin/team_preview.feature:    Given I login as onboarding user who is "practitioner"
+./new_admin/team_preview.feature:    Given I login as onboarding practitioner user
+./new_admin/team_preview.feature:    Given I login as onboarding practitioner user
+./new_admin/team_preview.feature:    Given I login as onboarding practitioner user
+./new_admin/video_preview.feature:    Given I login as onboarding practitioner user
+./new_admin/video_preview.feature:    Given I login as onboarding practitioner user
+./new_admin/video_preview.feature:    Given I login as onboarding practitioner user
+./new_admin/video_preview.feature:    Given I login as onboarding practitioner user
+./new_admin/video_preview.feature:    Given I login as onboarding practitioner user
+./new_admin/video_preview.feature:    Given I login as onboarding practitioner user
+./new_admin/video_preview.feature:    Given I login as onboarding practitioner user
+./new_admin/video_preview.feature:    Given I login as onboarding practitioner user
+./new_admin/video_preview.feature:    Given I login as onboarding practitioner user
+./new_admin/welcome_preview.feature:    Given I login as onboarding practitioner user
+./new_admin/welcome_preview.feature:    Given I login as onboarding practitioner user
+./new_admin/welcome_preview.feature:    Given I login as onboarding practitioner user
+./new_admin/welcome_preview.feature:    Given I login as onboarding practitioner user
+./new_admin/welcome_preview.feature:    Given I login as onboarding practitioner user
+./new_admin/welcome_preview.feature:    Given I login as onboarding practitioner user
+./new_admin/welcome_preview.feature:    Given I login as onboarding practitioner user
+./new_hires/customize_onboarding.feature:    Given I login as a new hire employee who has six or more team member
+./new_hires/customize_onboarding.feature:    Given I login as a onboarding manager
+./new_hires/customize_onboarding.feature:    Given I login as a onboarding manager
+./new_hires/manager_welcome_message.feature:    Given I login as onboarding practitioner user
+./new_hires/manager_welcome_message.feature:    And I login as a onboarding manager
+./new_hires/manager_welcome_message.feature:    Given I login as onboarding practitioner user
+./new_hires/manager_welcome_message.feature:    And I login as a onboarding manager
+./new_hires/manager_welcome_message.feature:    When I login as onboarding practitioner user
+./new_hires/manager_welcome_message.feature:    Given I login as onboarding practitioner user
+./new_hires/manager_welcome_message.feature:    And I login as a onboarding manager
+./new_hires/manager_welcome_message.feature:    Given I login as a onboarding manager
+./new_hires/manager_welcome_message.feature:    Given I login as a onboarding manager
+./new_hires/manager_welcome_message.feature:    Given I login as a onboarding manager
+./new_hires/manager_welcome_message.feature:    Given I login as a manager who has written a welcome message
+./new_hires/manager_welcome_message.feature:    Given I login as a onboarding manager
+./new_hires/select_team_members.feature:    Given I login as a onboarding manager who has multiple employees
+./new_hires/select_team_members.feature:    Given I login as a onboarding manager who has multiple employees
+./new_hires/select_team_members.feature:    Given I login as a onboarding manager who has multiple employees
+./new_hires/select_team_members.feature:    Given I login as a onboarding manager who has multiple employees
+./new_hires/select_team_members.feature:    Given I login as a onboarding manager
+./new_hires/select_team_members.feature:    Given I login as a onboarding manager
+./new_hires/select_team_members.feature:    Given I login as a new hire employee
+./new_hires/select_team_members.feature:    Given I login as a onboarding manager who has only one employee
+./new_hires/select_team_members.feature:    Given I login as a new hire employee with only one team member
+./new_hires/select_team_members.feature:    Given I login as a onboarding manager who has only one employee
+./new_hires/select_team_members.feature:    Given I login as a onboarding manager who has multiple employees
+./new_hires/select_team_members.feature:    Given I login as a new hire employee with only one team member
+./new_hires/select_team_members.feature:    Given I login as a onboarding manager who has more then six employees
+./new_hires/select_team_members.feature:    Given I login as a new hire employee who has six or more team member
+./new_hires/select_team_members.feature:    Given I login as a onboarding manager who has multiple employees
+./new_hires/select_team_members.feature:    Given I login as a onboarding manager who has multiple employees
+./new_hires/select_team_members.feature:    Given I login as a onboarding manager
+./new_hires/select_team_members.feature:    Given I login as a new hire employee with only one team member and no buddy
+./new_hires/select_team_members.feature:    Given I login as a new hire employee with more then one team members
+./new_hires/select_team_members.feature:    Given I login as a new hire employee
+./new_hires/select_team_members.feature:    Given I login as a new hire employee
+./new_hires/select_team_members.feature:    Given I login as a who’s manager has not selected any team members for the onboarder
+./new_hires/select_team_members.feature:    When I login to my work email
+./new_hires/select_team_members.feature:    Given I login as a onboarding manager
+./new_hires/select_team_members.feature:    Given I login as a new hire employee
+./new_hires/select_team_members.feature:    Given I login as onboarding user who is "practitioner"
+./new_hires/select_team_members.feature:    And I login as a onboarding manager
+./new_hires/select_team_members.feature:    Given I login as onboarding user who is "practitioner"
+./new_hires/things_todo_new_hire.feature:    Given I login as a onboarding manager
+./new_hires/things_todo_new_hire.feature:    Given I login as a onboarding manager who has no new hires or already compleated new hire setup
+./new_hires/things_todo_new_hire.feature:    Given I login as a onboarding manager
+./new_hires/things_todo_new_hire.feature:    Given I login as a onboarding manager who has no new hires or already compleated new hire setup
+./new_hires/things_todo_new_hire.feature:    Given I login as a onboarding manager
+./new_hires/view_new_hire.feature:    Given I login as a onboarding manager
+./new_hires/view_new_hire.feature:    Given I login as a onboarding manager
+./new_hires/view_new_hire.feature:    Given I login as a onboarding manager
+./new_hires/view_new_hire.feature:    Given I login as a onboarding manager
+./new_hires/view_new_hire.feature:    Given I login as a onboarding manager
+./new_hires/view_new_hire.feature:    Given I login as a onboarding manager
+./new_hires/view_new_hire.feature:    Given I login as a onboarding manager who's company does not have Onboarding as a feature
+./new_hires/view_new_hire.feature:    Given I login as a onboarding manager
+./new_hires/view_new_hire.feature:    Given I login as a onboarding manager
+./new_hires/view_new_hire.feature:    Given I login as a onboarding manager
+./new_hires/view_new_hire.feature:    Given I login as a onboarding manager
+./onboarding_generics.feature:    Given I login as a user that has started onboarding
+./onboarding_generics.feature:    Given I login as a user that has started onboarding
+./onboarding_generics.feature:    Given I login as an onboarding user who started within 7 days
+./onboarding_generics.feature:    Given I login as onboarding user who is "noOnboardingAccess"
+./onboarding_generics.feature:    Given I login as a user who's start date is in the future
+./onboarding_generics.feature:    Given I login as onboarding user who is "noOnboardingAccess"
+./onboarding_generics.feature:    Given I login as a user that has started onboarding
+./onboarding_generics.feature:    Given I login as an onboarding user who started within 7 days
+./onboarding_header_footer.feature:    Given I login as a user that has started onboarding
+./paperwork/company_documents.feature:    Given I login with a user that has not yet started onboarding process
+./paperwork/company_documents.feature:    Given I login with a user who does not have any onboarding company document
+./paperwork/company_documents.feature:    Given I login with a user that has not yet started onboarding process
+./paperwork/company_documents.feature:    Given I login with a user that has not yet started onboarding process
+./paperwork/personal_info.feature:    Given I login with a user that has not yet started onboarding process
+./paperwork/personal_info.feature:    Given I login with a user that has not yet started onboarding process
+./paperwork/personal_info.feature:    Given I login with a user that has not yet started onboarding process
+./paperwork/personal_info.feature:    Given I login with a user that has filled up personal info
+./paperwork/personal_info.feature:    Given I login with a user that has not yet started onboarding process
+./paperwork/save_state_paperwork.feature:    Given I login as onboarding user who has "incompletePaperwork"
+./paperwork/save_state_paperwork.feature:    Given I login as onboarding user who has "completedAllSteps"
+./paperwork/save_state_paperwork.feature:    Given I login as onboarding user who has "completedAllSteps"
+./paperwork/save_state_paperwork.feature:    Given I login as onboarding user who has "completeDirectDeposit"
+./paperwork/save_state_paperwork.feature:    Given I login as onboarding user who has "completeEmergencyContact"
+./paperwork/tax_withholding/federal_tax_withholding.feature:    Given I login as user who fill tax withholding for non-workflow
+./paperwork/tax_withholding/federal_tax_withholding.feature:    Given I login as user who fill tax withholding for workflow
+./paperwork/tax_withholding/federal_tax_withholding.feature:    Given I login as a user who has completed tax withholding
+./paperwork/tax_withholding/federal_tax_withholding.feature:    Given I login as user who had filled tax withholding with workflow enabled and request not approved by manager
+./paperwork/tax_withholding/state_tax_withholding.feature:    Given I login as user who fill state tax withholding without workflow enabled
+./paperwork/tax_withholding/state_tax_withholding.feature:    Given I login as user who fill state tax withholding without workflow enabled
+./paperwork/tax_withholding/state_tax_withholding.feature:    Given I login as user who fill state tax withholding with workflow enabled
+./paperwork/tax_withholding/state_tax_withholding.feature:    When I login as a onboarding manager for tax withholding
+./paperwork/tax_withholding/state_tax_withholding.feature:    When I login as user who fill state tax withholding with workflow enabled
+./paperwork/tax_withholding/state_tax_withholding.feature:    When I login as a onboarding manager for tax withholding
+./paperwork/tax_withholding/state_tax_withholding.feature:    When I login as user who fill state tax withholding with workflow enabled
+./paperwork/tax_withholding/state_tax_withholding.feature:    Given I login as user who has already completed federal state tax
+./paperwork/tax_withholding/tile_tax_withholding.feature:    Given I login as a user who is yet to complete tax withholding
+./paperwork/tax_withholding/tile_tax_withholding.feature:    Given I login as a user who has completed tax withholding
+./paperwork/tax_withholding/tile_tax_withholding.feature:    Given I login as a user who has completed tax withholding
+./paperwork/tile_company_policies.feature:    Given I login with a user that has not yet started onboarding process
+./paperwork/tile_company_policies.feature:    Given I login with a user that has not yet started onboarding process
+./paperwork/tile_company_policies.feature:    Given I login with a user that has not yet started onboarding process
+./paperwork/tile_company_policies.feature:    Given I login with a user that has not yet started onboarding process
+./paperwork/tile_direct_deposit.feature:    Given I login with a user that has not yet started onboarding process
+./paperwork/tile_direct_deposit.feature:    Given I login with a user that has no Direct Deposit setup
+./paperwork/tile_direct_deposit.feature:    Given I login with a user that has one Direct Deposit setup
+./paperwork/tile_direct_deposit.feature:    Given I login with a user that has no Direct Deposit setup with workflow enabled
+./paperwork/tile_direct_deposit.feature:    Given I login as a onboarding manager
+./paperwork/tile_direct_deposit.feature:    Given I login with a user that has no Direct Deposit setup with workflow enabled
+./paperwork/tile_direct_deposit.feature:    Given I login with a user that has no Direct Deposit setup with workflow disabled
+./paperwork/tile_direct_deposit.feature:    Given I login with a user that has one Direct Deposit setup
+./paperwork/tile_direct_deposit.feature:    Given I login with a user that has no Direct Deposit setup with workflow disabled
+./paperwork/tile_emergency_contact.feature:    Given I login with a user that has not yet started onboarding process
+./paperwork/tile_emergency_contact.feature:    Given I login as onboarding user who has "emergencyContactNotFilled"
+./profile/about_you_edit_status.feature:    Given I login with a user that has not yet started onboarding process
+./profile/about_you_edit_status.feature:    Given I login with a user that has not yet started onboarding process
+./profile/about_you_edit_status.feature:    Given I login with a user that has not yet started onboarding process
+./profile/about_you_edit_status.feature:    Given I login with a user that has already updated there status
+./profile/about_you_edit_status.feature:    Given I login with a user that has profile image upload option turned off
+./profile/about_you_edit_status.feature:    Given I login with a user that has background image upload option turned off
+./profile/about_you_edit_status.feature:    Given I login with a user that has display status option turned off
+./profile/profile_permissions.feature:    Given I login as an Exempt employee
+./profile/profile_permissions.feature:    Given I login as an Exempt employee
+./profile/profile_permissions.feature:    Given I login as a Non-Exempt employee
+./profile/profile_permissions.feature:    Given I login as a Non-Exempt employee
+./profile/profile_permissions.feature:    Given I login as an Exempt employee
+./profile/profile_permissions.feature:    Given I login as a Non-Exempt employee
+./profile/profile_permissions.feature:    Given I login as an Exempt employee
+./profile/profile_permissions.feature:    Given I login as a Non-Exempt employee
+./profile/step_about_you.feature:    Given I login with a user that has not yet started onboarding process
+./profile/step_about_you.feature:    Given I login with a user that has not yet started onboarding process
+./profile/step_about_you.feature:    Given I login with a user that has not yet started onboarding process
+./profile/step_about_you.feature:    Given I login with a user that has not yet started onboarding process
+./profile/talent_management_system.feature:    Given I login as onboarding practitioner user for TMS client
+./profile/talent_management_system.feature:    Given I login as onboarding practitioner user without TMS client
+./profile/talent_management_system.feature:    Given I login as Vantage user without TMS who already started
+./profile/talent_management_system.feature:    Given I login as Vantage user with TMS who already started
+./profile/talent_management_system.feature:    Given I login as enterprise user without TMS who already started
+./profile/talent_management_system.feature:    Given I login as Vantage user without TMS who already started
+./profile/talent_management_system.feature:    Given I login as Vantage user without TMS who already started
+./profile/talent_management_system.feature:    Given I login as Vantage user without TMS who already started
+./profile/talent_management_system.feature:    Given I login as Vantage user without TMS who already started
+./profile/talent_management_system.feature:    Given I login as Vantage user with TMS who already started
+./rehires/rehire_employee.feature:    Given I login as a rehire employee who’s start date is in the future
+./rehires/rehire_employee.feature:    Given I login as a rehire employee after seven days of my start date
+./rehires/rehire_employee.feature:    Given I login as a rehire employee who’s start date is in the future
+./rehires/rehire_employee.feature:    Given I login as a rehire employee who’s start date is in the future
+./rehires/rehire_employee.feature:    Given I login as a rehire employee who’s start date is in the future
+./rehires/rehire_manager.feature:    Given I login as a onboarding manager
+./rehires/rehire_manager.feature:    Given I login as a onboarding manager
+./rehires/rehire_manager.feature:    Given I login as onboarding practitioner user
+./rehires/rehire_manager.feature:    And I login as a onboarding manager
+./rehires/rehire_manager.feature:    When I login as onboarding practitioner user
+./save_state_done.feature:    Given I login as onboarding user who has "completedAllSteps"
+./save_state_done.feature:    Given I login as onboarding user who has "completedAllSteps"
+./save_state_done.feature:    Given I login as onboarding user who has "completedAllSteps"
+./save_state_done.feature:    Given I login as onboarding user who has "completedAllSteps"
+./save_state_done.feature:    And I login as onboarding user who has "completedAllSteps"
+./save_state_welcome.feature:    Given I login as onboarding user who has "completedAllSteps"
+./save_state_welcome.feature:    Given I login as onboarding user who has "completedAllSteps"
+./save_state_welcome.feature:    Given I login as onboarding user who has "completedAllSteps"
+./save_state_welcome.feature:    Given I login as onboarding user who has "completedAllSteps"
+./save_state_welcome.feature:    And I login as onboarding user who has "completedAllSteps"
+./search.feature:    Given I login with a user that has not yet started onboarding process
+./search.feature:    Given I login as a user after my start date
+./step_neighborhood.feature:    Given I login as onboarding practitioner user
+./step_neighborhood.feature:    Given I login with a user that has not yet started onboarding process
+./step_neighborhood.feature:    Given I login as a user that has started onboarding
+./step_neighborhood.feature:    Given I login as a user that has started onboarding
+./step_neighborhood.feature:    Given I login as a user that has started onboarding
+./step_video.feature:    Given I login as onboarding practitioner user
+./step_video.feature:    When I login with a user that has not yet started onboarding process
+./step_video.feature:    Given I login with a user that has not yet started onboarding process
+./step_video.feature:    Given I login with a user that has not yet started onboarding process
+./step_video.feature:    When I login as onboarding practitioner user
+./step_video.feature:    When I login with a user that has not yet started onboarding process
+./step_video.feature:    When I login as onboarding practitioner user
+./step_video.feature:    When I login with a user that has not yet started onboarding process
+./step_video.feature:    Given I login with a user that has not yet started onboarding process
+./step_welcome.feature:    Given I login with a user that has not yet started onboarding process
+./step_welcome.feature:    Given I login with a user that has not yet started onboarding process
+./step_welcome.feature:    Given I login with a user that has already started to work
+./step_welcome.feature:    Given I login with a user that has not yet started onboarding process
+./step_welcome.feature:    Given I login as a user whose manager has written a welcome message
+./step_welcome.feature:    Given I login as a user who has no manager
+./step_welcome.feature:    Given I login as a user whose manager has written a welcome message
+./team/buddy_in_team_page.feature:    Given I login as a new hire employee
+./team/buddy_in_team_page.feature:    Given I login as a new hire employee who is assigned a buddy with no work email address
+./team/buddy_in_team_page.feature:    Given I login as a new hire employee who is assigned a buddy with no work email address
+./team/buddy_in_team_page.feature:    Given I login as a new hire employee
+./team/buddy_in_team_page.feature:    Given I login as onboarding user who is "practitioner"
+./team/buddy_in_team_page.feature:    And I login as a new hire employee
+./team/team_permissions.feature:    Given I login as an Exempt employee
+./team/team_permissions.feature:    Given I login as a Non-Exempt employee
+./team/team_permissions.feature:    Given I login as an Exempt employee
+./team/team_permissions.feature:    Given I login as a Non-Exempt employee
+./team/team_permissions.feature:    Given I login as an Exempt employee
+./team/team_permissions.feature:    Given I login as a Non-Exempt employee
+./team/team_permissions.feature:    Given I login as a Non-Exempt employee
+./team/team_permissions.feature:    Given I login as an Exempt employee
+./tour_animation.feature:    Given I login as a default user
+./tour_animation.feature:    Given I login as an user who have started last week
