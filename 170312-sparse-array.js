@@ -28,3 +28,16 @@ var getStrMatchCount = function(str, inputStr, inputStrCount) {
 }
 
 sparseArray();
+
+
+// function readLine(input, from, to) {
+//     var inputArr = input.split('\n');
+//     var returnValue = [];
+    
+// //    console.log(inputArr);
+//     //console.log(from, to)
+//     for(var i=from; i<to; i++) {
+//         returnValue.push(inputArr[i]);
+//     }
+//     return returnValue;
+// }
