@@ -4,7 +4,8 @@ const findUniqueChars = function(inputString) {
     for(let i=0; i<inputString.length; i++) {
         outputHashtable[inputString[i]] = inputString[i];
     }
-    console.log(Object.keys(outputHashtable).join(''));
+    console.log(outputHashtable.Z)
+    // console.log(Object.keys(outputHashtable).join(''));
 }
 
 findUniqueChars('Zunaira Sayed Zakir');
